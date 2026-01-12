@@ -55,3 +55,71 @@ My work lies at the intersection of **autonomous systems, robotics, AI/ML, contr
 A **linear regression–based predictive system** for estimating failure time in simulated jet engines.
 
 **End-to-end pipeline:**
+
+
+- Production-style ML workflow (not just model training)
+- Interactive **Gradio UI**
+- Final accuracy: **~87%**
+- Strong emphasis on reliability and evaluation
+
+---
+
+### 🔹 AutoML Trainer (Generic ML Pipeline System)
+A fully automated ML system that accepts datasets via UI and handles the complete lifecycle:
+
+- EDA & preprocessing
+- Model selection & training
+- Hyperparameter tuning
+- Supports **regression and classification**
+- Downloadable trained models & processed datasets
+
+> Designed as a reusable system, not a one-off experiment.
+
+---
+
+### 🔹 Neural Network Framework From Scratch (NumPy Only)
+Built a **complete neural network framework** without using ML libraries.
+
+**Two main parts:**
+1. Core neural network library:
+   - Layers, activations, loss functions
+   - Backpropagation
+   - Optimization logic
+2. Production-style deep learning pipeline using the framework
+
+**Applied to:**
+- Breast cancer classification
+- MNIST digit recognition
+
+> Focused on understanding **math, numerical stability, and architecture**.
+
+---
+
+### 🔹 TEKNOFEST – Fighter UAV Stars Competition
+Worked on **autonomous UAV systems** for air-to-air defense scenarios.
+
+**Mission scope:**
+- Autonomous takeoff
+- Autonomous swarm flight
+- Autonomous target destruction
+
+**Focus areas:**
+- Multi-agent autonomy
+- Control & decision-making
+- Realistic defense scenarios in controlled environments
+
+---
+
+## 🧩 Engineering Philosophy
+- I prefer **building from scratch** over using opaque frameworks
+- I value **clean architecture** over fast hacks
+- I design **solid, reproducible pipelines**
+- I prioritize **learning and correctness before shipping**
+- I think in systems, not isolated components
+
+---
+
+## 📚 Current Direction
+- Real-world autonomous robotics deployment
+- Multi-UAV coordination & spatial decision-making
+- Deep integration of:
