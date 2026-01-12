@@ -123,3 +123,19 @@ Worked on **autonomous UAV systems** for air-to-air defense scenarios.
 - Real-world autonomous robotics deployment
 - Multi-UAV coordination & spatial decision-making
 - Deep integration of:
+
+- Making autonomous systems act **reliably in real environments**
+
+---
+
+## ⚡ Outside Code
+- Research & deep technical reading  
+- Engineering competitions and challenges  
+- Stress-testing systems until they fail — then rebuilding them better
+
+---
+
+## 🤝 Let’s Connect
+If you’re working on **autonomous systems, robotics, UAVs, or AI-driven control**,  
+I’m always open to serious technical discussions and collaboration.
+
