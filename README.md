@@ -3,7 +3,7 @@
 # 👋 Abdelhadi Osama
 ### 🚀 Autonomous Systems Engineer
 
-**Robotics · AI/ML · Control Systems · Embedded Systems**
+**Robotics · AI/ML **
 
 ![Profile Views](https://komarev.com/ghpvc/?username=abdelhadi-osama&style=flat-square&color=0891b2)
 [![GitHub followers](https://img.shields.io/github/followers/abdelhadi-osama?style=social)](https://github.com/abdelhadi-osama)
